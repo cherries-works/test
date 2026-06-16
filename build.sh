@@ -2,7 +2,7 @@
 
 echo "building..."
 
-mkdir -p dist/
-cp src/index.html dist/index.html
+mkdir -p build/
+cp src/index.html build/index.html
 
 echo "build finished!"
