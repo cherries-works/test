@@ -6,7 +6,7 @@ Most commits to this repository are purely for testing purposes (for example
 a rollback check), and not to be taken too seriously.
 
 As example, this commit was done to check whether or not the restart function works
-properly.
+properly. This was done to check the prune functionality.
 
 # License
 MIT
